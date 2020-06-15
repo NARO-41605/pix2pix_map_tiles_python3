@@ -1,0 +1,16 @@
+{
+ "targetURL": {
+               "url": "https://habs.dc.affrc.go.jp/spatial_data/ryugasaki/landuse_xyz/", 
+               "type": "tile", 
+               "format": "{z}/{x}/{y}.png"
+              }, 
+ "inputURL": [
+              {
+               "url": "https://habs.dc.affrc.go.jp/spatial_data/ryugasaki/topomap_xyz/", 
+               "type": "tile", 
+               "format": "{z}/{x}/{y}.png"
+               }
+             ]
+}
+
+
